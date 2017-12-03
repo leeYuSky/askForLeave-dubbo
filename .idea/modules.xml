@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/askForLeave-api/askForLeave-api.iml" filepath="$PROJECT_DIR$/askForLeave-api/askForLeave-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/askForLeave-customer/askForLeave-customer.iml" filepath="$PROJECT_DIR$/askForLeave-customer/askForLeave-customer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/askForLeave-dubbo.iml" filepath="$PROJECT_DIR$/askForLeave-dubbo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/askForLeave-provider/askForLeave-provider.iml" filepath="$PROJECT_DIR$/askForLeave-provider/askForLeave-provider.iml" />
+    </modules>
+  </component>
+</project>
